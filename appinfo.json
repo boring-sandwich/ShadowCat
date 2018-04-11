@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "companyName": "pebble@geekypanda.com",
+    "longName": "ShadowCat",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/ShadowCat_blink.png",
+                "name": "image_ShadowCat_blink_identifier",
+                "type": "png"
+            },
+            {
+                "file": "images/shadowCat.png",
+                "name": "image_shadowCat_identifier",
+                "type": "png"
+            },
+            {
+                "file": "images/logoShadowCat.png",
+                "name": "image_shadowCat_logo_identifier",
+                "type": "png"
+            },
+            {
+                "file": "fonts/arial.ttf",
+                "name": "font_arial_24",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "ShadowCat",
+    "uuid": "03ff5037-0a28-4a59-b92c-709555be46d9",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
